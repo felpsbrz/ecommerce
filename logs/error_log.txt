@@ -1,0 +1,1 @@
+[2025-11-10 03:30:12] [API] Erro de teste gerado propositalmente para validar o ErrorHandler.
